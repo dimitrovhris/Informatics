@@ -1,0 +1,18 @@
+enrollment Iva Teneva 1234567890 5 Tenev 0888222333
+enrollment Maria Petrova 2345678901 5 Petrov 0888444555
+enrollment Petar Yanev 3456789012 4 Yanev 0888111222
+enrollment Anna Nikolova 4567890123 3 Veleva 0888333444
+enrollment Georgi Stoev 5678901234 5 Stoev 0888555666
+enrollment Marta Dobreva 6789012345 4 Dobrev 0888777999
+enrollment Nikola Ivanov 7890123456 3 Ivanova 0888999111
+enrollment Nikolay Dimitrov 12345 5 Dimitrov 0888123456
+enrollment Mila Popova 8901234567 7 Popov 0888234567
+enrollment Ilia Nikolov 9012345678 4 Nikolov 0888444555
+enrollment Stela Petkova 0123456789 3 Yankova 0888666777
+information I
+information II
+unsubscribe 2102232455
+unsubscribe 0123456789
+information I
+Info
+END
