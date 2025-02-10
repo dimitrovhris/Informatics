@@ -1,0 +1,10 @@
+Petar Petrov forward 18 9000.00 10 3 0
+Ivan Ivanov forward 22 10000.00 50 25 10
+Kaloyan Kaloyanov defender 24 6000.00 80 5 2
+Georgi Georgiev midfielder 27 11000.00 100 19 33
+Dimitar Dimitrov goalkeeper 35 7500.00 300
+Plamen Kirov coach 41 3000.00
+Biser Biserov director 48 18000.00
+Gari Plamenov coach 51 4000.00
+Daniel Danielov director 55 25000.00
+Grigor Grigorov director 61 20000.00
