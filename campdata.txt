@@ -1,0 +1,11 @@
+register John Doe 111111111 13 Samuel 0888777666
+register Jane Smith 444444444 15 Laura 0888999000
+register Mike Brown 555555555 9 Coach 0888123456
+register Emily Davis 666666666 14 Laura 0888111222
+register Robert Johnson 777777777 12 Michael 0888999000
+info Senior
+unregister 123456789
+unregister 444444444
+info Senior
+UnknownCommand
+END

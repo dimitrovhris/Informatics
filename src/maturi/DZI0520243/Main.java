@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner(new FileInputStream("src/maturi/DZI0520243/data.txt"));
+        Scanner sc = new Scanner(new FileInputStream("data.txt"));
         KinderGarden kinderGarden = new KinderGarden();
         String line = sc.nextLine();
         while (!line.equals("END")) {
