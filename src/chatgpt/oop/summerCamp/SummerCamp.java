@@ -1,4 +1,4 @@
-package chatgpt.oop.sportsClubManager;
+package chatgpt.oop.summerCamp;
 
 import java.util.ArrayList;
 import java.util.List;

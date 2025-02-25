@@ -1,6 +1,5 @@
-package chatgpt.oop.sportsClubManager;
+package chatgpt.oop.summerCamp;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.util.Scanner;
 

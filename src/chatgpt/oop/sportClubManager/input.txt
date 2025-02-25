@@ -1,0 +1,11 @@
+register John Doe 123456789 12 Mike 0888123456
+register Alice Smith 987654321 15 Mike 0888987654
+register Bob Johnson 555555555 16 Mike 0888123899
+register Eve Brown 111222333 19 Mike 0888123124
+register Tom Davis 444444444 14 Mike 0888123545
+unregister 987654321
+info Youth
+info Junior
+info Senior
+unknownCommand
+END

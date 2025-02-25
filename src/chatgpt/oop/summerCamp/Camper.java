@@ -1,4 +1,4 @@
-package chatgpt.oop.sportsClubManager;
+package chatgpt.oop.summerCamp;
 
 public class Camper extends Person{
     private int age;
