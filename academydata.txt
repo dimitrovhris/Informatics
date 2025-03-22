@@ -1,0 +1,11 @@
+register Petar Stoev petar@abv.bg Beginner Nikola 0888111222
+register Elitsa Georgieva elitsa_gmail.com Intermediate Ani 0888555666
+register Ivan Stamatov ivan.s@softuni.bg Advanced Rado 0888777999
+register Georgi Marinov georgi@abv.bg Intermediate Moni 0888999111
+register Stela Petrova stela@abv.bg Beginner Zornitsa 0888222111
+info Group A
+info Group B
+unregister ivan.s@softuni.bg
+info Group C
+badcommand test test
+END
