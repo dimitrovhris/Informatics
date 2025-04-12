@@ -1,4 +1,4 @@
-package musicAcademy;
+package chatgpt.oop.musicAcademy;
 
 import java.util.ArrayList;
 import java.util.Comparator;

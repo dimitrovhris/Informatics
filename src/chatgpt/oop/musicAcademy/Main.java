@@ -1,4 +1,6 @@
-package musicAcademy;
+package chatgpt.oop.musicAcademy;
+
+import chatgpt.oop.musicAcademy.Student;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

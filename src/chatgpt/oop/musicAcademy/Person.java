@@ -1,4 +1,4 @@
-package musicAcademy;
+package chatgpt.oop.musicAcademy;
 
 public class Person {
     private String firstName;

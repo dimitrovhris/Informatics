@@ -1,6 +1,6 @@
-package musicAcademy;
+package chatgpt.oop.musicAcademy;
 
-public class Student extends Person{
+public class Student extends Person {
     private int age;
     private String category;
     private String instrument;
