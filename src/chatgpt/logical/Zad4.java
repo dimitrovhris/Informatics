@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Zad26_3 {
+public class Zad4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = Integer.parseInt(sc.nextLine());
