@@ -1,0 +1,7 @@
+Instructor Anna Petrova anna@softuni.bg Java 50
+Instructor Ivan Ivanov ivanmail.com Python 60
+Trainee Georgi Stoyanov georgi@abc.bg Python 110
+Trainee Petya Koleva petya@xyz.bg Java 80
+PrintInstructors
+PrintTrainees
+End
